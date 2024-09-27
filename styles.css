@@ -23,6 +23,11 @@ nav a {
     font-size: 1.5rem;
 }
 
+.p 
+{
+    color: white;
+}
+
 .container {
     height: 100vh;
     display: flex;
