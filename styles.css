@@ -17,7 +17,7 @@ header {
 
 .logo img {
     max-width: 150px;
-    height: 125px;
+    height: 100px;
 }
 
 nav li {
@@ -32,7 +32,7 @@ nav a {
 }
 
 .container h1 {
-    font-size: 104px;
+    font-size: 50px;
     text-align: center;
     color: white; 
 }
